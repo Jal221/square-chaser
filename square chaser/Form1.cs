@@ -216,7 +216,7 @@ namespace square_chaser
             if (player1Speed < 10)
             {
                
-                player1Speed = 43;
+                player1Speed = 4;
             }
 
 
